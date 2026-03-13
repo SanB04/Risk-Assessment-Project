@@ -15,6 +15,7 @@ Fictional company named PayLink Digital Solutions, founded in 2015, is a global 
 **Key Deliverables:**
 The project include the following deliverables:
 •	ISMS Scope Document
+
 •	Asset Inventory Spreadsheet
 •	Risk Register Spreadsheet
 •	Risk Register Documentation
